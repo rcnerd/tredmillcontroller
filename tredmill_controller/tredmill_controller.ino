@@ -1,4 +1,7 @@
 
+//only works on micro/leonardo/due
+
+
 const int prgmkey = 52;
 
 char ctrlKey = KEY_LEFT_CTRL;
